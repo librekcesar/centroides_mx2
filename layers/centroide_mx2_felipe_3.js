@@ -1,0 +1,1 @@
+var json_centroide_mx2_felipe_3 = {"type":"FeatureCollection","name":"centroide_mx2_felipe_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"MEAN_X":-99.16346,"MEAN_Y":19.65369,"estacion":"CENTROIDE_MX2"},"geometry":{"type":"Point","coordinates":[-99.163461292217136,19.653686914258031]}}]}
